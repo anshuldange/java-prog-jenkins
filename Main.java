@@ -11,5 +11,7 @@ public class Main {
         System.out.println("One more file added");
         System.out.println("checking radiply");
 
+        Student s = new Student();
+        s.sayHello();
     }
 }
